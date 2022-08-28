@@ -14,7 +14,7 @@
 - ⚡ **Unbelievable fact**:
 
 
-<img align="right" alt="GIF" src="https://c.tenor.com/_RoZtOoGCoQAAAAC/%E8%94%A1%E5%BE%90%E5%9D%A4%E7%B1%83%E7%90%83-cai-xukun.gif" />
+<img align="right" alt="GIF" src="https://img.league-funny.com/imgur/155610149487.gif" />
 
 ### ✨ Quick Facts
 
