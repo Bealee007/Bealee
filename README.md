@@ -1,7 +1,7 @@
 # 👋🏻 GO！GO！GO！
 <div align="center">
     <br>
-    <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200"
+    <img src="https://www.qqaiqin.com/uploads/allimg/130410/4-1304101HFES.gif" width="200"
         height="200">
 </div>
 
