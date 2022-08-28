@@ -14,7 +14,7 @@
 - 💬 Ask me about anything related to Java security, Rust development , Trojan free to kill, .(After googling it 😜😌)
 - ⚡️ Fun-Fact: I sleep at 6am 🙃
 - 🎿 Hobbies other than coding : Reading blogs or about History , Making music , Thinking about writing blogs 🤔🤖..
-- 📫 How to reach me: xxxxxx（一定会被回复，只是网络有延迟Hahh..）
+- 📫 How to reach me: xxxxxx（私信一定是会被回复的，只是网络有延迟 emm..）
 
 ### 🎮🕹 Games
 <!-- TODO: get public links -->
