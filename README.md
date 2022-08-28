@@ -2,13 +2,13 @@
     <br>
     <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200"
         height="200">
-    <div align="right">
-        <br>
-        <img alt="GIF" src="https://img.league-funny.com/imgur/155610149487.gif" width="200" height="200">
-    </div>
 </div>
 
-
+<div align="left">
+    <br>
+    <img alt="GIF" src="https://img.league-funny.com/imgur/155610149487.gif" width="200"
+        height="200">
+</div>
 
 # 👋🏻 GO！GO！GO！Explore the unknown and have sweet dreams.
 ## Bealee (Him/He) 🌻
