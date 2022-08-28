@@ -17,7 +17,7 @@
 - 💬 Ask me about anything related to Java security, Rust development , Trojan free to kill, .(After googling it 😜😌)
 - ⚡️ Fun-Fact: I sleep at 6am 🙃
 - 🎿 Hobbies other than coding : Reading blogs or about History , Making music , Thinking about writing blogs 🤔🤖..
-- 📫 How to reach me: akanyelee@163.com
+- 📫 How to reach me: xxxxxx（发送的话一定会会被回复，只是网络有延迟Hahh..）
 
 ## Ikun Fans👋
 <div align="left">
