@@ -1,8 +1,7 @@
 # 👋🏻 GO！GO！GO！My Brothers.
 <div align="center">
     <br>
-    <img src="https://www.qqaiqin.com/uploads/allimg/130410/4-1304101HFES.gif" width="200"
-        height="200">
+    <img src="https://www.qqaiqin.com/uploads/allimg/130410/4-1304101HFES.gif">
 </div>
 
 ## Hello, I'm Bealee，Is a researcher in code audit and security development 
