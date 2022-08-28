@@ -7,7 +7,7 @@
 
 ## Hello, I'm Bealee，Is a researcher in code audit and security development 
 
-## ✨ Quick Facts
+### ✨ Quick Facts
 - 👨🏽‍💻 I’m currently working or 躺平ing！ 👋 🌻
 - 🌱 I’m currently learning Java development &Java code Audit
 - 🤔 The road to digging 0day is long and difficult
@@ -16,18 +16,18 @@
 - 🎿 Hobbies other than coding : Reading blogs or about History , Making music , Thinking about writing blogs 🤔🤖..
 - 📫 How to reach me: xxxxxx（一定会被回复，只是网络有延迟Hahh..）
 
-## 🎮🕹 Games
-<!-- TODO: get public links -->
-[<img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" />](https://jeel/)
-[<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />](https://jeel/)
-
-## 💕Ikun Fans
+### 💕Ikun Fans
 <div align="left">
     <br>
     <img alt="GIF" src="https://img.league-funny.com/imgur/155610149487.gif">
 </div>
 
-## 👨👩 Social
+### 🎮🕹 Games
+<!-- TODO: get public links -->
+[<img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" />](https://jeel/)
+[<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />](https://jeel/)
+
+### 👨👩 Social
 <!--reference : https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeel/)
 [<img src="https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/story/10872163)
