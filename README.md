@@ -23,8 +23,14 @@
 <!-- TODO: get public links -->
 [<img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" />](https://jeel/)
 [<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />](https://jeel/)
-
 <br />
+
+### Ikun Fans👋
+<div align="left">
+    <br>
+    <img alt="GIF" src="https://img.league-funny.com/imgur/155610149487.gif" width="200"
+        height="200">
+</div>
 
 ### 👨👩 Social
 <!--
@@ -38,10 +44,3 @@ reference : https://github.com/alexandresanlim/Badges4-README.md-Profile
 <a href="https://twitter.com/__j_e_e_l__"><img src="https://img.shields.io/twitter/follow/__j_e_e_l__?label=Twitter&style=social" alt="Twitter"></a>
 <a href="https://github.com/jeelpatel1612"><img src="https://img.shields.io/github/followers/jeelpatel1612.svg?label=GitHub&style=social" alt="GitHub"></a>
 <!-- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/__j_e_e_l__) -->
-
-## Ikun Fans👋
-<div align="left">
-    <br>
-    <img alt="GIF" src="https://img.league-funny.com/imgur/155610149487.gif" width="200"
-        height="200">
-</div>
