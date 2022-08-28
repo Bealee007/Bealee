@@ -4,20 +4,20 @@
     <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200"
         height="200">
 </div>
-
-
 ## Hello, I'm Bealee，Is a researcher in code audit and security development 
-### 躺平ing！ 👋 🌻
+
+<br />
 
 ### ✨ Quick Facts
-
-- 👨🏽‍💻 I’m currently working
+- 👨🏽‍💻 I’m currently working or 躺平ing！ 👋 🌻
 - 🌱 I’m currently learning Java development &Java code Audit
 - 🤔 The road to digging 0day is long and difficult
 - 💬 Ask me about anything related to Java security, Rust development , Trojan free to kill, .(After googling it 😜😌)
 - ⚡️ Fun-Fact: I sleep at 6am 🙃
 - 🎿 Hobbies other than coding : Reading blogs or about History , Making music , Thinking about writing blogs 🤔🤖..
 - 📫 How to reach me: xxxxxx（一定会被回复，只是网络有延迟Hahh..）
+
+<br />
 
 ### 🎮🕹 Games
 <!-- TODO: get public links -->
@@ -32,10 +32,9 @@
         height="200">
 </div>
 
+<br />
 ### 👨👩 Social
-<!--
-reference : https://github.com/alexandresanlim/Badges4-README.md-Profile
--->
+<!--reference : https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeel/)
 [<img src="https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/story/10872163)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/__j_e_e_l__/)
