@@ -16,7 +16,7 @@
 - 🎿 Hobbies other than coding : Reading blogs or about History , Making music , Thinking about writing blogs 🤔🤖..
 - 📫 How to reach me: xxxxxx（一定会被回复，只是网络有延迟Hahh..）
 
-### 💕Ikun Fans
+### 💕 Ikun Fans
 <div align="left">
     <br>
     <img alt="GIF" src="https://img.league-funny.com/imgur/155610149487.gif">
