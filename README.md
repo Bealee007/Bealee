@@ -22,7 +22,7 @@
 [<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />](https://jeel/)
 
 ### 💕 Ikun Fans
-<div align="left">
+<div align="top">
     <br>
     <img alt="GIF" src="https://img.league-funny.com/imgur/155610149487.gif" width="200" heigh="200">
 </div>
