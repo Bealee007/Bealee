@@ -18,10 +18,10 @@
 
 ### 🎮🕹 Games
 <!-- TODO: get public links -->
-[<img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" />](https://jeel/)
-[<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />](https://jeel/)
+[<img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" />](https://xxxxx/)
+[<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />](https://xxxxxx/
 
-### 💕 Ikun Fans
+### 💕😜 Ikun Fans
 <div align="left">
     <br>
     <img alt="GIF" src="https://img.league-funny.com/imgur/155610149487.gif">
