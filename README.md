@@ -1,4 +1,4 @@
-# 👋🏻 GO！GO！GO！Explore the unknown and have sweet dreams.
+# 👋🏻 GO！GO！GO！
 <div align="center">
     <br>
     <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200"
