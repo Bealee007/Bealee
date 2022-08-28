@@ -8,23 +8,16 @@
 # 👋🏻 GO！GO！GO！Explore the unknown and have sweet dreams.
 ## Bealee (Him/He) 🌻
 ### Hello, I'm Bealee，Is a researcher in code audit and security development 躺平ing！ 👋
-- 🔭
-- 👯
-- 💬
-- 📫 **How to reach me**:
-- ⚡ **Unbelievable fact**:
-
 
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working @Learnifii (React.js Dev.)
-- 🌱 I’m currently learning React-Native and Animation
-- 🤔 I’m looking for help for my future MERN projects
-- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
+- 👨🏽‍💻 I’m currently working
+- 🌱 I’m currently learning Java development &Java code Audit
+- 🤔 The road to digging 0day is long and difficult
+- 💬 Ask me about anything related to Java security, Rust development , Trojan free to kill, .(After googling it 😜😌)
 - ⚡️ Fun-Fact: I sleep at 6am 🙃
-- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Thinking about writing blogs 🤔🤖..
-- 📫 How to reach me: aman.atg001@gmail.com
-- 📝 [Resume](https://www.canva.com/design/DAD8JlnPFhw/3v-OrtVl-UETeMGVfscAgQ/view?) (old)
+- 🎿 Hobbies other than coding : Reading blogs or about History , Making music , Thinking about writing blogs 🤔🤖..
+- 📫 How to reach me: akanyelee@163.com
 
 ## Ikun Fans👋
 <div align="left">
