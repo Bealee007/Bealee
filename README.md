@@ -14,7 +14,7 @@
 - ⚡ **Unbelievable fact**:
 
 
-<img align="right" alt="GIF" src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20200313%2F3a43043202bc4bc38e257d7228010ed3.gif&refer=http%3A%2F%2F5b0988e595225.cdn.sohucs.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1664314277&t=5d4f8da79ca330f0a461db0edfa23826" />
+<img align="right" alt="GIF" src="https://c.tenor.com/_RoZtOoGCoQAAAAC/%E8%94%A1%E5%BE%90%E5%9D%A4%E7%B1%83%E7%90%83-cai-xukun.gif" />
 
 ### ✨ Quick Facts
 
