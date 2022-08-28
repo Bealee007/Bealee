@@ -14,8 +14,8 @@
 - ⚡ **Unbelievable fact**:
 
 
-<img align="right" alt="GIF" src="https://img.league-funny.com/imgur/155610149487.gif" width="300"
-height="200">
+<img align="right" alt="GIF" src="https://img.league-funny.com/imgur/155610149487.gif" width="200"
+height="200" border="1px" border-radius="8px" background-color="rebeccapurple">
 
 ### ✨ Quick Facts
 
