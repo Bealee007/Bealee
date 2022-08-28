@@ -26,6 +26,7 @@
 - 📫 How to reach me: aman.atg001@gmail.com
 - 📝 [Resume](https://www.canva.com/design/DAD8JlnPFhw/3v-OrtVl-UETeMGVfscAgQ/view?) (old)
 
+## Ikun Fans👋
 <div align="right">
     <br>
     <img alt="GIF" src="https://img.league-funny.com/imgur/155610149487.gif" width="200"
