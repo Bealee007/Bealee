@@ -6,15 +6,6 @@
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-<!-- :sunny: I'm currently learning and working on... -->
-
-<!-- :fire: To live alone is the fate of all great souls
-
-<!-- **Languages and Tools:**   -->
-
-<!-- <img height="120" src="https://cdn.jsdelivr.net/gh/JS-banana/images/vuepress/4.png" /> -->
-
-<!-- [![sss's github stats](https://github-readme-stats.vercel.app/api?username=KanyeLee&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <table width="800px">
 <tr>
@@ -38,14 +29,6 @@ Other      27 mins        ▌░░░░░░░░░░░░░░░░░
 <td valign="top" width="50%">
 
 #### 🤹‍♀️ <a href="https://ssscode.com/" target="_blank">Recent Blog</a>
-
-<!-- blog starts -->
-* <a href='https://ssscode.com/pages/23154c/' target='_blank'>【前端组件化】pnpm + monorepo + changeset 的方案设计</a> - 2022-08-18
-* <a href='https://ssscode.com/pages/af5c63/' target='_blank'>【前端组件化】monorepo方案分析</a> - 2022-08-18
-* <a href='https://ssscode.com/pages/f120e1/' target='_blank'>【前端组件化】方案探究</a> - 2022-08-18
-* <a href='https://ssscode.com/pages/4d7766/' target='_blank'>WebSocket连接过程及原理分析</a> - 2022-06-08
-* <a href='https://ssscode.com/pages/d8b0e2/' target='_blank'>Koa之洋葱模型分析</a> - 2022-04-30
-<!-- blog ends -->
 
 </td>
 </tr>
