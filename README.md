@@ -1,9 +1,9 @@
-# 👋🏻 GO！GO！GO！Explore the unknown and have sweet dreams.
-<div align="center">
+<div align="left">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
+# 👋🏻 GO！GO！GO！Explore the unknown and have sweet dreams.
 ## Bealee (Him/He) 🌻
 ### Hello, I'm Bealee，Is a researcher in code audit and security development 躺平ing！ 👋
 - 🔭 
