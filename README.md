@@ -24,8 +24,8 @@
 ### 💕Ikun Fans
 <div align="left">
     <br>
-    <img alt="GIF" src="https://img.league-funny.com/imgur/155610149487.gif" width="200"
-        height="200">
+    <img alt="GIF" src="https://img.league-funny.com/imgur/155610149487.gif" width="100"
+        height="100">
 </div>
 
 ### 👨👩 Social
