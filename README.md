@@ -1,4 +1,4 @@
-### Hello, 我是小帅! 👋
+### Hello, 我是Bealee，躺平ing！ 👋
 
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -15,9 +15,9 @@
 
 <!-- :fire: To live alone is the fate of all great souls
 
-:raised_hand: 掘金：[https://juejin.cn/user/1204720476890477](https://juejin.cn/user/1204720476890477)
+:raised_hand: 掘金：[]()
 
-:sparkles: 博客：[https://ssscode.com/](https://ssscode.com/) -->
+:sparkles: 博客：[]() -->
 
 <!-- **Languages and Tools:**   -->
 
@@ -76,4 +76,3 @@ Other      27 mins        ▌░░░░░░░░░░░░░░░░░
 
 <!-- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=js-banana&hide=handlebars&langs_count=8&layout=compact&exclude_repo=vuepress,vuepress-blog-io,vuepress-theme-vdoing,hexo,hexo-theme-next,images) -->
 
-![github contribution grid snake animation](https://github.com/JS-banana/JS-banana/blob/output/github-contribution-grid-snake.svg)
