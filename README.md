@@ -1,4 +1,4 @@
-### Hello, 我是Bealee，躺平ing！ 👋
+### Hello, I'm Bealee，Is a researcher in code audit and security development 躺平ing！ 👋
 
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -6,30 +6,21 @@
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-[![visitor](https://visitor-badge.glitch.me/badge?page_id=js-banana.js-banana)](https://github.com/JS-banana)
-[![sssgoEasy](https://img.shields.io/badge/juejin-sssgoEasy-blue)](https://juejin.cn/user/1204720476890477)
-[![小帅の技术博客](https://img.shields.io/badge/blog-%E5%B0%8F%E5%B8%85%E3%81%AE%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2-orange)](https://ssscode.com/)
-[![前端小帅](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%B8%85-brightgreen)](https://cdn.jsdelivr.net/gh/JS-banana/images/vuepress/1.jpg)
-
 <!-- :sunny: I'm currently learning and working on... -->
 
 <!-- :fire: To live alone is the fate of all great souls
-
-:raised_hand: 掘金：[]()
-
-:sparkles: 博客：[]() -->
 
 <!-- **Languages and Tools:**   -->
 
 <!-- <img height="120" src="https://cdn.jsdelivr.net/gh/JS-banana/images/vuepress/4.png" /> -->
 
-<!-- [![sss's github stats](https://github-readme-stats.vercel.app/api?username=JS-banana&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![sss's github stats](https://github-readme-stats.vercel.app/api?username=KanyeLee&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <table width="800px">
 <tr>
 <td valign="top" width="50%">
 
-#### 🏊‍♂️ <a href="https://gist.github.com/JS-banana/b4b79e0deb0164edaae772ecbc5bd8bc" target="_blank">Weekly Development Breakdown</a>
+#### 🏊‍♂️ <a href="https://gist.github.com/KanyeLee/b4b79e0deb0164edaae772ecbc5bd8bc" target="_blank">Weekly Development Breakdown</a>
 
 <!-- code_time starts -->
 
