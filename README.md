@@ -1,21 +1,21 @@
-<div align="left">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200",
-    color="black">
+<div align="left" style="background-color:darkgray">
+    <br>
+    <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200"
+        height="200">
 </div>
 
 # 👋🏻 GO！GO！GO！Explore the unknown and have sweet dreams.
 ## Bealee (Him/He) 🌻
 ### Hello, I'm Bealee，Is a researcher in code audit and security development 躺平ing！ 👋
-- 🔭 
-- 👯 
-- 💬 
-- 📫 **How to reach me**: 
+- 🔭
+- 👯
+- 💬
+- 📫 **How to reach me**:
 - ⚡ **Unbelievable fact**:
 
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
-  
+<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently working @Learnifii (React.js Dev.)
