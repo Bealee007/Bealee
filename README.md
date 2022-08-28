@@ -4,11 +4,6 @@
         height="200">
 </div>
 
-<div align="left">
-    <br>
-    <img alt="GIF" src="https://img.league-funny.com/imgur/155610149487.gif" width="200"
-        height="200">
-</div>
 
 # 👋🏻 GO！GO！GO！Explore the unknown and have sweet dreams.
 ## Bealee (Him/He) 🌻
@@ -30,3 +25,9 @@
 - 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Thinking about writing blogs 🤔🤖..
 - 📫 How to reach me: aman.atg001@gmail.com
 - 📝 [Resume](https://www.canva.com/design/DAD8JlnPFhw/3v-OrtVl-UETeMGVfscAgQ/view?) (old)
+
+<div align="left">
+    <br>
+    <img alt="GIF" src="https://img.league-funny.com/imgur/155610149487.gif" width="200"
+        height="200">
+</div>
