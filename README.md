@@ -7,7 +7,7 @@
 ## Hello, I'm Bealee，Is a researcher in code audit and security development 
 
 ### ✨ Quick Facts
-- 👨🏽‍💻 I’m currently working or 躺平ing！ 👋 🌻
+- 👨🏽‍💻 I’m currently working or 躺平ing 👋 🌻
 - 🌱 I’m currently learning Java development & Java code Audit
 - 🤔 The road to digging 0day is long and difficult
 - 💬 Ask me about anything related to Java security, Rust development , Trojan free to kill, .(After googling it 😜😌)
